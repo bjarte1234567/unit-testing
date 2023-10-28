@@ -1,0 +1,26 @@
+{
+  "name": "unit-testing",
+  "version": "0.0.1",
+  "description": "test project for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjarte1234567/unit-testing.git"
+  },
+  "keywords": [
+    "unit",
+    "testing"
+  ],
+  "author": "bjarte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjarte1234567/unit-testing/issues"
+  },
+  "homepage": "https://github.com/bjarte1234567/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}
