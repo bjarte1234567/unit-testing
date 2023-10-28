@@ -4,7 +4,8 @@
   "description": "test project for unit testing",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm run test-unit",
+    "test-unit": "jest"
   },
   "repository": {
     "type": "git",
